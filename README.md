@@ -1,6 +1,6 @@
-## Customer Churn Prediction
+# Customer Churn Prediction
 
-# Project Overview
+## Project Overview
 
 In this project, I built a machine learning model to predict whether a customer will churn or not. The main goal was to analyze customer data, prepare it properly, and train a classification model to identify customers who are likely to leave.
 
@@ -63,7 +63,7 @@ Classification Report
 
 Analyzed how well the model predicts customer churn
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning and Preprocessing
 
@@ -75,6 +75,6 @@ Model Evaluation
 
 
 
-# Conclusion
+## Conclusion
 
 In this project, I implemented a complete customer churn prediction pipeline — from data preprocessing to model evaluation. This project helped me understand how classification models work on real-world business problems.
